@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Softly As I Leave
+
+This log tracks the cryptographic history and versioning for the song **Softly As I Leave** (softly-as-i-leave).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-30T13:16:53.622153 | `v1` | `d9b6fd645f096f4d0ca2bf249092c15a7b67911bdb0583de08fb04fa32661327` | `a01a4ab4f6feec35e4d0f8ca7b7c3a34a9b25d48022d1cb19b88d9904b776f61` | `2026-05-30_softly-as-i-leave-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

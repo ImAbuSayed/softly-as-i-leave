@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/softly-as-i-leave/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Softly As I Leave](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/softly-as-i-leave/) |
+| **Get License** | [Request Licensing for Softly As I Leave](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/softly-as-i-leave/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d9b6fd645f096f4d0ca2bf249092c15a7b67911bdb0583de08fb04fa32661327` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

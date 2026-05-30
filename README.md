@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/softly-as-i-leave/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Softly As I Leave](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/softly-as-i-leave/) |
+| **Get License** | [Obtain a Music License for Softly As I Leave](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/softly-as-i-leave/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat between us burning slow
+> Every time you pull me in and let me go
+> Caught inside the rhythm of your heavy breath
+> I want to hold you close until there’s nothing left
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
